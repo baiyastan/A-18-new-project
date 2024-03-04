@@ -10,6 +10,7 @@
     .content {
         max-width: 720px;
         flex-direction: row;
+        flex-wrap: wrap;
     }    
 }
 @media screen and (min-width: 992px) {
